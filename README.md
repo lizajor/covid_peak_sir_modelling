@@ -12,3 +12,4 @@ https://raw.githubusercontent.com/btseytlin/covid_peak_sir_modelling/main/figure
 
 Articles:
 * [habr.com: Чем грозит Москве «британский» штамм COVID-19? Отвечаем с помощью Python и дифуров](https://m.habr.com/ru/company/otus/blog/553638/)
+* [Actually forecasting COVID-19: A thorough tutorial on forecasting COVID-19, with code in Python](https://towardsdatascience.com/how-to-actually-forecast-covid-19-778cce27b9d6)
